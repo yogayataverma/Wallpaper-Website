@@ -1,0 +1,15 @@
+ul li:nth-child(5) {
+  /* Your styles here */
+  margin-left: 60%;
+  color: blue;
+  font-weight: bold;
+  border-color: green;
+  border-width: 2px;
+}
+
+ul li {
+  /* Your styles here */
+
+  border-color: green;
+  border-width: 2px;
+}
