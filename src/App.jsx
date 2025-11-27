@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 import { useState } from 'react'
+=======
+>>>>>>> 857befe281a405e67d118a9df952cb2a9bf4ae8a
 import './App.css'
 import Header from './components/Header'
 import Footer from './components/Footer'
@@ -6,6 +9,7 @@ import { BrowserRouter, createBrowserRouter, Routes, Route } from 'react-router-
 
 
 function App() {
+<<<<<<< HEAD
 
 
   return (
@@ -19,6 +23,12 @@ function App() {
       </Routes>
       </BrowserRouter>
       <Footer />
+=======
+
+  return (
+    <>
+      
+>>>>>>> 857befe281a405e67d118a9df952cb2a9bf4ae8a
     </>
   )
 }
